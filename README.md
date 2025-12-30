@@ -1,8 +1,6 @@
 # MilivoltNet-Components-Tool
 Free tool to find cheapest AliExpress hot deals for electronic components + instant BOM cost calculator.
 
-# MilivoltNet Components Tool
-
 Free tool to find the **cheapest electronic components** from AliExpress hot deals.
 
 - Instantly search thousands of resistors, capacitors, ICs, transistors, diodes, sensors, modules, ESP32, Arduino boards, LEDs and more.
